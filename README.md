@@ -1,14 +1,14 @@
 # Daveology 101
 
-🙀️ What is this thing called Dave?
-🐧️ Where possible I like to develop under Linux (and have done so since the 0.96c.2 boot/root disk days)
-☕️ I'm a professional Java developer with a zillion years experience in enterprise
-🦀️ Currently I'm learning Rust ... the borrow checker is winning on points
-🇬🇧️ I'm a Brit
-🇸🇪️ But I live and work in Sweden (och jag pratar lite dåligt svenska)
-✉️ I can be contacted by email as dave@paperstack.com
-💰️ From May 2021 I will be looking for work (but [see below](#jobs))
-📜️ For longer writings see [my blog at paperstack.com](https://paperstack.com/)
+🙀️ What is this thing called Dave?\
+🐧️ Where possible I like to develop under Linux (and have done so since the 0.96c.2 boot/root disk days)\
+☕️ I'm a professional Java developer with a zillion years experience in enterprise\
+🦀️ Currently I'm learning Rust ... the borrow checker is winning on points\
+🇬🇧️ I'm a Brit\
+🇸🇪️ But I live and work in Sweden (och jag pratar lite dåligt svenska)\
+✉️ I can be contacted by email as dave@paperstack.com\
+💰️ From May 2021 I will be looking for work (but [see below](#jobs))\
+📜️ For longer writings see [my blog at paperstack.com](https://paperstack.com/)\
 
 ## Jobs
 
