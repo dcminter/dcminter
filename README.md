@@ -31,6 +31,7 @@ Good learning links:
 
   * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
   * https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/
+  * https://rust-lang-nursery.github.io/rust-cookbook/about.html
 
 ## 3D Printing
 
