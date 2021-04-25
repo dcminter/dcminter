@@ -29,13 +29,17 @@ So far the best Rust learning text I've found is [Programming Rust](https://www.
 
 Good learning links:
 
-  * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
-  * https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/
-  * https://rust-lang-nursery.github.io/rust-cookbook/about.html
+  * [A Half Hour to Learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) (more a sales-pitch for Rust syntax to developers familiar with other languages)
+  * [How to build a Websocket Server with Rust](https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/)
+  * [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/about.html)
+  * [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p)
+  * [Rust Language Cheat Sheet](https://cheats.rs/) ("sheet" is rather understating it...)
+  * [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
+  * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/introduction.html)
 
 ## 3D Printing
 
-I acquired an Ender 3 Pro towards the start of the pandemic and have been creating a few things with it. So far I've found [FreeCAD](https://www.freecadweb.org/) (or at least the version I'm using) to be impossibly buggy; far too many occasions when a modal dialogue with a magic number and no meaningful message pops up. Save often, reload when things get wedged. Instead I've mostly created things with the online [TinkerCAD](https://www.tinkercad.com/) tool - which seems to be far more limited but much more approachable. Next on my list is to learn to use [SolveSpace](https://solvespace.com/index.pl).
+I acquired an Ender 3 Pro towards the start of the pandemic and have been creating a few things with it. So far I've found [FreeCAD](https://www.freecadweb.org/) (or at least the version I'm using) to be impossibly buggy; far too many occasions when a modal dialogue with a magic number and no meaningful message pops up. Save often, reload when things get wedged. Instead I've mostly created things with the online [TinkerCAD](https://www.tinkercad.com/) tool - which seems to be far more limited but much more approachable. Next on my list is to learn to use [SolveSpace](https://solvespace.com/index.pl). For the "slicing" step I've been using [Cura](https://ultimaker.com/software/ultimaker-cura) without any problems at all (high praise!)
 
 I've also been playing with strapping a pen to the print head and using it to do plotting. The approach I've used so far is hideous: sending the text through [Scribus](https://www.scribus.net/), [Inkscape](https://inkscape.org/), [a command line SVG to GCode tool](https://github.com/sameer/svg2gcode), a custom bash script to rewrite the GCode to something that works with the lashed-together plotter, and then printing from [Octoprint](https://octoprint.org/). I have a tentative plan to create a CLI tool to go direct from text to GCode. So far my ignorance of TrueType fonts parameters has been the limiting factor!
 
