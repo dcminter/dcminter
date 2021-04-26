@@ -21,6 +21,28 @@ From 1st May 2021 **and not before** I will be looking for interesting job oppor
 
 You can find full details of my experience [on my Linked In profile](https://www.linkedin.com/in/dcminter/).
 
+## Java
+
+I enjoy reading [Hacker News](https://news.ycombinator.com), but boy do they have a downer on Java. Meanwhile the ne plus ultra of [blub](http://www.paulgraham.com/avg.html) languages¹ keeps on trucking.
+
+The arguments against it usually boil down to:
+
+  * It's kind of verbose
+  * It's not the latest hot and sexy
+  * It doesn't have `${feature_du_jour}`
+
+That's then usually rounded off with grudging acceptance that the JVM is alright and maybe a nod to Scala, or Lombok. A few half hearted javanauts defend it, and then the circus rolls out of town.
+
+I have to say, it IS kind of verbose, it is NOT the latest hot and sexy, and `${feature_du_jour}` usually turns up just after (or several years/decades after) a new shiny thing is fiercely outshining that.
+
+On the other hand it's rock solid, has vast libraries, and is manageable for terrifyingly large teams. If you want to roll your own startup in three weeks flat you'd be insane to use it. If you want to write a big complicated back-end application that will still be in action twenty years from now without needing 15 consecutive rewrites then you would be a little eccentric not to at least *consider* it.
+
+Anyway, I'm super biased, having been mucking around in Java since the 1.1.x days. I've written books on various libraries and tools and seen Java used to good and bad effect in all sorts of companies. I even messed with Visual J++ once upon a time (but I cleaned it off afterwards).
+
+In the end it's mostly the people that matter. Pick a solid language and don't be too worried what the mayflies call it.
+
+¹*Would it be petty to point out that paulgraham.com currently has an invalid SSL certificate for the domain?
+
 ## Rust
 
 I'm currently getting up to speed on Rust. It's quite the learning curve for someone who's been letting the garbage collector take the strain for over 20 years - and who created his fair share of segfaults before that in 90s era C++. I do not yet fully grok the borrow/lifetime rules, but I'm starting to get the hang of it. There's a similarity between Java's streams+iterators and Rust's iterators that's reassuring though.
