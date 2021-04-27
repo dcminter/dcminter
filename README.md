@@ -37,7 +37,7 @@ I have to say, it IS kind of verbose, it is NOT the latest hot and sexy, and `${
 
 On the other hand it's rock solid, has vast libraries, and is manageable for terrifyingly large teams. If you want to roll your own startup in three weeks flat you'd be insane to use it. If you want to write a big complicated back-end application that will still be in action twenty years from now without needing 15 consecutive rewrites then you would be a little eccentric not to at least *consider* it.
 
-Anyway, I'm super biased, having been mucking around in Java since the 1.1.x days. I've written books on various libraries and tools and seen Java used to good and bad effect in all sorts of companies. I even messed with Visual J++ once upon a time (but I cleaned it off afterwards).
+Anyway, I'm super biased, having been mucking around in Java since the 1.1.x days. I've written books on various libraries and tools and seen Java used to good and bad effect in all sorts of companies. I even messed with Visual J++ once upon a time (but I cleaned my fingernails afterwards).
 
 In the end it's mostly the people that matter. Pick a solid language and don't be too worried what the mayflies call it.
 
