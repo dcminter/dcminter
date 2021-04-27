@@ -31,7 +31,7 @@ The arguments against it usually boil down to:
   * It's not the latest hot and sexy
   * It doesn't have `${feature_du_jour}`
 
-That's then usually rounded off with grudging acceptance that the JVM is alright and maybe a nod to Scala, or Lombok. A few half hearted javanauts defend it, and then the circus rolls out of town.
+That's then usually rounded off with grudging acceptance that the JVM is alright and maybe a nod to Scala or Lombok. A few half hearted javanauts defend it, and then the circus rolls out of town.
 
 I have to say, it IS kind of verbose, it is NOT the latest hot and sexy, and `${feature_du_jour}` usually turns up just after (or several years/decades after) a new shiny thing is fiercely outshining that.
 
@@ -41,7 +41,7 @@ Anyway, I'm super biased, having been mucking around in Java since the 1.1.x day
 
 In the end it's mostly the people that matter. Pick a solid language and don't be too worried what the mayflies call it.
 
-¹*Would it be petty to point out that paulgraham.com currently has an invalid SSL certificate for the domain?
+¹*Would it be petty to point out that paulgraham.com currently has an invalid SSL certificate for the domain?*
 
 ## Rust
 
