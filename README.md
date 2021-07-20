@@ -7,19 +7,7 @@
 🇬🇧️ I'm a Brit\
 🇸🇪️ But I live and work in Sweden (och jag pratar lite dåligt svenska)\
 ✉️ I can be contacted by email as dave@paperstack.com\
-💰️ From May 2021 I will be looking for work (but [see below](#jobs))\
 📜️ For longer writings see [my blog at paperstack.com](https://paperstack.com/)\
-
-## Jobs
-
-From 1st May 2021 **and not before** I will be looking for interesting job opportunities - however I'm quite picky:
-
-  * I'm only interested in *direct contact* from companies - no recruiters please
-  * I'm only interested in *small* companies - maximum 50 employees
-  * I'm only interested in *product companies* - no consultancies or cost centres thanks
-  * I'm only interested in fully-remote *or* Stockholm-based (and prefer some remote even then)
-
-You can find full details of my experience [on my Linked In profile](https://www.linkedin.com/in/dcminter/).
 
 ## Java
 
