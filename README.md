@@ -35,7 +35,7 @@ In the end it's mostly the people that matter. Pick a solid language and don't b
 
 I'm currently getting up to speed on Rust. It's quite the learning curve for someone who's been letting the garbage collector take the strain for over 20 years - and who created his fair share of segfaults before that in 90s era C++. I do not yet fully grok the borrow/lifetime rules, but I'm starting to get the hang of it. There's a similarity between Java's streams+iterators and Rust's iterators that's reassuring though.
 
-So far the best Rust learning text I've found is [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) from O'Reilly. The copy I have is the 1st edition, but I have ordered the linked 2nd edition but it's taking a while to turn up! I ploughed through the entire thing and had quite a few moments where the "but...?" objections raised in one paragraph were immediately answered in the next one, which is a very nice way to learn.
+So far the best Rust learning text I've found is [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) from O'Reilly. The copy I have is the 1st edition. I have ordered the linked 2nd edition but it's taking a while to turn up! I ploughed through the entire thing and had quite a few moments where the "but...?" objections raised in one paragraph were immediately answered in the next one, which is a very nice way to learn.
 
 Good learning links:
 
