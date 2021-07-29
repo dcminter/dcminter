@@ -7,7 +7,7 @@
 🇬🇧️ I'm a Brit\
 🇸🇪️ But I live and work in Sweden (och jag pratar lite dåligt svenska)\
 ✉️ I can be contacted by email as dave@paperstack.com\
-📜️ For longer writings see [my blog at paperstack.com](https://paperstack.com/)\
+📜️ For longer writings see [my blog at paperstack.com](https://paperstack.com/)
 
 ## Java
 
