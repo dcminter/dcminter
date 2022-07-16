@@ -19,7 +19,7 @@ The arguments against it usually boil down to:
   * It's not the latest hot and sexy
   * It doesn't have `${feature_du_jour}`
 
-That's then usually rounded off with grudging acceptance that the JVM is alright and maybe a nod to Scala or Lombok. A few half hearted javanauts defend it, and then the circus rolls out of town.
+That's then usually rounded off with grudging acceptance that the JVM is alright and maybe a nod to Scala or Kotlin. A few half hearted javanauts defend it, and then the circus rolls out of town.
 
 I have to say, it IS kind of verbose, it is NOT the latest hot and sexy, and `${feature_du_jour}` usually turns up just after (or several years/decades after) a new shiny thing is fiercely outshining that.
 
@@ -33,7 +33,7 @@ In the end it's mostly the people that matter. Pick a solid language and don't b
 
 ## Rust
 
-I'm currently getting up to speed on Rust. It's quite the learning curve for someone who's been letting the garbage collector take the strain for over 20 years - and who created his fair share of segfaults before that in 90s era C++. I do not yet fully grok the borrow/lifetime rules, but I'm starting to get the hang of it. There's a similarity between Java's streams+iterators and Rust's iterators that's reassuring though.
+I'm still getting up to speed on Rust. It's quite the learning curve for someone who's been letting the garbage collector take the strain for over 20 years - and who created his fair share of segfaults before that in 90s era C++. I do not yet fully grok the borrow/lifetime rules, but I'm starting to get the hang of it. There's a similarity between Java's streams+iterators and Rust's iterators that's reassuring though.
 
 So far the best Rust learning text I've found is [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) from O'Reilly. The copy I have is the 1st edition. I have ordered the linked 2nd edition but it's taking a while to turn up! I ploughed through the entire thing and had quite a few moments where the "but...?" objections raised in one paragraph were immediately answered in the next one, which is a very nice way to learn.
 
