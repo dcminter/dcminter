@@ -3,7 +3,8 @@
 🙀️ What is this thing called Dave?\
 🐧️ Where possible I like to develop under Linux (and have done so since the 0.96c.2 boot/root disk days)\
 ☕️ I'm a professional Java developer with a zillion years experience in enterprise\
-🦀️ Currently I'm learning Rust ... the borrow checker is winning on points\
+🦀️ Currently I'm getting to be usefully incompetent in Rust\
+🐍️ and Python\
 🇬🇧️ I'm a Brit\
 🇸🇪️ But I live and work in Sweden (och jag pratar lite dåligt svenska)\
 ✉️ I can be contacted by email as dave@paperstack.com\
@@ -11,7 +12,7 @@
 
 ## Java
 
-I enjoy reading [Hacker News](https://news.ycombinator.com), but boy do they have a downer on Java. Meanwhile the ne plus ultra of [blub](http://www.paulgraham.com/avg.html) languages¹ keeps on trucking.
+I enjoy reading [Hacker News](https://news.ycombinator.com), but boy do they have a downer on Java. Meanwhile the ne plus ultra of [blub](http://www.paulgraham.com/avg.html) languages keeps on trucking.
 
 The arguments against it usually boil down to:
 
@@ -29,35 +30,14 @@ Anyway, I'm super biased, having been mucking around in Java since the 1.1.x day
 
 In the end it's mostly the people that matter. Pick a solid language and don't be too worried what the mayflies call it.
 
-¹*Would it be petty to point out that paulgraham.com currently has an invalid SSL certificate for the domain?*
+## Other languages
 
-## Rust
+I'm dabbling in [Rust](https://rust-lang.org/) more and more - and I like it a lot. I've started creating [a](https://github.com/dcminter/rs-define) [few](https://github.com/dcminter/zoomies) [tools](https://github.com/dcminter/meminfo-rs) and it's becoming my go-to language for those kinds of self-contained things. We'll see where that takes me; I'd love to use it more often professionally when the occasion arises.
 
-I'm still getting up to speed on Rust. It's quite the learning curve for someone who's been letting the garbage collector take the strain for over 20 years - and who created his fair share of segfaults before that in 90s era C++. I do not yet fully grok the borrow/lifetime rules, but I'm starting to get the hang of it. There's a similarity between Java's streams+iterators and Rust's iterators that's reassuring though.
+I'm also beginning to mess around with [Python](https://www.python.org/). Not a huge amount so far, but I built [a fun tagging site based off of the Hacker News story feed](https://hntags.com/) and [the implementation of that](https://github.com/dcminter/hntags.com) was surprisingly fun. I'll probably dig a bit deeper now I'm starting to feel less comprehensively ignorant about the language. I have a suspicion that diving into this properly after the emergence of the [uv package and project manager](https://github.com/astral-sh/uv) tool saved me a world of grief.
 
-So far the best Rust learning text I've found is [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) from O'Reilly. The copy I have is the 1st edition. I have ordered the linked 2nd edition but it's taking a while to turn up! I ploughed through the entire thing and had quite a few moments where the "but...?" objections raised in one paragraph were immediately answered in the next one, which is a very nice way to learn.
+I have some neolithic Javascript skills but it's time I bit the bullet and learnt some Typescript. It's not the language so much as the constant flux of the build tools that makes me nervous there, but I think it's time I pushed myself more in the "full-stack" versus "backender" direction. We'll see how I progress on that.
 
-Good learning links:
+# Other hobbies
 
-  * [A Half Hour to Learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) (more a sales-pitch for Rust syntax to developers familiar with other languages)
-  * [How to build a Websocket Server with Rust](https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/)
-  * [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/about.html)
-  * [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p)
-  * [Rust Language Cheat Sheet](https://cheats.rs/) ("sheet" is rather understating it...)
-  * [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
-  * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/introduction.html)
-
-## 3D Printing
-
-I acquired an Ender 3 Pro towards the start of the pandemic and have been creating a few things with it. So far I've found [FreeCAD](https://www.freecadweb.org/) (or at least the version I'm using) to be impossibly buggy; far too many occasions when a modal dialogue with a magic number and no meaningful message pops up. Save often, reload when things get wedged. Instead I've mostly created things with the online [TinkerCAD](https://www.tinkercad.com/) tool - which seems to be far more limited but much more approachable. Next on my list is to learn to use [SolveSpace](https://solvespace.com/index.pl). For the "slicing" step I've been using [Cura](https://ultimaker.com/software/ultimaker-cura) without any problems at all (high praise!)
-
-I've also been playing with strapping a pen to the print head and using it to do plotting. The approach I've used so far is hideous: sending the text through [Scribus](https://www.scribus.net/), [Inkscape](https://inkscape.org/), [a command line SVG to GCode tool](https://github.com/sameer/svg2gcode), a custom bash script to rewrite the GCode to something that works with the lashed-together plotter, and then printing from [Octoprint](https://octoprint.org/). I have a tentative plan to create a CLI tool to go direct from text to GCode. So far my ignorance of TrueType fonts parameters has been the limiting factor!
-
-I also also had to recompile and reinstall [Marlin](https://marlinfw.org/) to allow for a BLTouch (tramming assistant), a faster motherboard, and plotting [G500 Bézier curves](https://marlinfw.org/docs/gcode/G005.html)! That was all rather reminiscent of the early days of PC wrangling when one had the lid open more often than not to get things working!
-
-## Virtual Reality
-
-I've played around a little with [WebXR](https://immersiveweb.dev/) (which used to be "Web VR"), mostly as a tool to get some basic knowledge of WebGL (the only external libraries I used were for the matrix math). Hilariously the WebXR bits were all terribly easy and the WebGL bits (I'd never used even OpenGL before) were terrifically hard! Still, it was fun, and I'd now feel confident picking up [Babylon.js](https://www.babylonjs.com/) or [Three.js](https://threejs.org/) to take that further.
-
-My starting point for learning WebGL was [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL ](https://www.goodreads.com/en/book/show/16269927-webgl-programming-guide) which is a bit out of date, but not so much that I couldn't follow along. I'm still looking for a good follow-up book but haven't found anything quite suitable for my needs yet.
-	
+Aside from programming for fun and profession I have a few other strings to my bow. I've written a few tech books, some with my co-author Jeff Linwood, others (that mostly sank without trace) solo. I'm an over-enthusiastic swing dancer, almost exclusively [dancing Balboa](https://en.wikipedia.org/wiki/Balboa_(dance)) these days. I even teach some of the beginner tracks with my wife here in Stockholm. Plus I read a lot, pet the cat, and eat biscuits. It's a tough old life.
