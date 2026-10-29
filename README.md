@@ -2,11 +2,11 @@
 
 🙀️ What is this thing called Dave?\
 🐧️ Where possible I like to develop under Linux (and have done so since the 0.96c.2 boot/root disk days)\
-☕️ I'm a professional Java developer with a zillion years experience in enterprise\
-🦀️ Currently I'm getting to be usefully incompetent in Rust\
-🐍️ and Python\
-🐹️ and Go\
-💎️ and I'm giving Ruby acquisitive glances\
+☕️ I'm a professional developer with a zillion years experience in enterprise (mostly Java, though I'm not currently using it in the day job)\
+💎️ I'm (rather slowly) learning Ruby; I can't say I love it yet\
+🦀️ I'm getting to be usefully incompetent in Rust, but don't get to use it professionally much\
+🐍️ I'm occasionally dabbling in Python\
+🐹️ and a bit more often in Go\
 🇬🇧️ I'm a Brit\
 🇸🇪️ But I live and work in Sweden (och jag pratar lite dåligt svenska)\
 ✉️ I can be contacted by email as dave@paperstack.com\
